@@ -1,0 +1,10 @@
+{
+  "name": "GSSwapsies-Editor",
+  "references": [
+    "GSSwapsies"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
